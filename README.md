@@ -1,2 +1,3 @@
 # JS-1
-Демонстрация примеров работ выполненных в процессе обучения по тестированию, в данном примере HTML,CSS https://htmlpreview.github.io/?https://github.com/AnnyBanni/JS-1/blob/main/ship.html
+Демонстрация выполненной работы в процессе самостоятельного обучения по тестированию, в данном примере представлен "Морской бой" JavaScript
+https://htmlpreview.github.io/?https://github.com/AnnyBanni/JS-1/blob/main/ship.html
